@@ -2,7 +2,7 @@
 
 ---
 
-[Image of Rosie Robot from Jetsons](rosie.png)
+![Image of Rosie Robot from Jetsons](rosie.png)
 
 ---
 
