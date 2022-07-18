@@ -18,6 +18,14 @@
 
 - `!rock`,`!paper`,`!scissors`: Rosie plays against you
 
+- `!rosie`: She knows its her
+
+- `!hello`: Greets
+
+- `!howareyou`: Responds her current status
+
+- `help`: At any point she reads the word help, she will give good advice
+
 - `!dog`,`!cat`,`!cow`,`!bird`: Rosie immitates the sounds of these animals
 
 ### NON COMMAND TRIGGERED ACTIONS
